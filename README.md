@@ -1,6 +1,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 </br>
-<h1 align="center">Hi 👋, I'm Ahmed Shaban</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Shaaban</h1>
 <h3 align="center">Software Engineer | Nile University Student | Flutter & Firebase Developer</h3>
 
 - 🔭 I’ve developed multiple mobile applications using **Flutter & Firebase**.  
@@ -11,7 +11,7 @@
 
 # 💻 Tech Stack
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=dart,c,cpp,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,python,java,c,cpp,html,css,js)](https://skillicons.dev)
 
 ## Framework & Backend
 [![My Skills](https://skillicons.dev/icons?i=flutter,firebase,nodejs,mongodb)](https://skillicons.dev)
