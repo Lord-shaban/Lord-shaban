@@ -10,11 +10,12 @@
 - 📍 Based in Egypt.  
 
 # 💻 Tech Stack
+
 ## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=dart,python,java,c,cpp,html,css,js)](https://skillicons.dev)
 
 ## Framework & Backend
-[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,nodejs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,firebase,laravel,php,nodejs,mongodb)](https://skillicons.dev)
 
 ## Tools & Software 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,figma,github,git,postman)](https://skillicons.dev)
