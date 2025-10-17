@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sha'ban</h1>
 <h3 align="center">Software Engineer | Nile University | Flutter & Laravel Developer | AI Explorer</h3>
 
+---
+
 ### 🧠 About Me
 - 🇪🇬 From **Egypt**
 - 🎓 Student @ **Nile University**
