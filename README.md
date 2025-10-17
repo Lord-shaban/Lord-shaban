@@ -13,6 +13,8 @@
 - 🌱 Currently learning **Advanced Laravel & Firebase Cloud**
 - 🎯 Goal: *To create tech that inspires and empowers humanity.* 
 
+---
+
 # 💻 Tech Stack
 ## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=dart,python,java,c,cpp,php,html,css,js)](https://skillicons.dev)
