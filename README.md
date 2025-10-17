@@ -14,6 +14,13 @@
 - 🎯 Goal: *To create tech that inspires and empowers humanity.* 
 
 ---
+## 📊 GitHub Analytics
+
+| 💫 Stats | 🔥 Streak | 🌍 Top Languages |
+|-----------|-----------|----------------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Lord-shaban&show_icons=true&theme=radical&count_private=true&include_all_commits=true) | ![Streak](https://streak-stats.demolab.com?user=Lord-shaban&theme=radical&hide_border=false) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-shaban&layout=compact&theme=radical&langs_count=12) |
+
+---
 
 # 💻 Tech Stack
 ## Programming Languages
