@@ -3,11 +3,13 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sha'ban</h1>
 <h3 align="center">Software Engineer | Nile University | Flutter & Laravel Developer | AI Explorer</h3>
 
-- 🔭 I've developed multiple mobile applications using **Flutter & Firebase**.  
-- 🌱 I'm currently improving my skills in **scalable backend systems** and **cloud integration**.  
-- 🤝 I'm open to collaborating on app development projects and innovative software solutions.  
-- 💬 Ask me about **Flutter, Firebase, App Development, and Software Engineering**.  
-- 📍 Based in Egypt.  
+### 🧠 About Me
+- 🇪🇬 From **Egypt**
+- 🎓 Student @ **Nile University**
+- 🚀 Working on **AI-powered Flutter Apps**  
+- 🧩 Team Leader @ **Abakera NU**
+- 🌱 Currently learning **Advanced Laravel & Firebase Cloud**
+- 🎯 Goal: *To create tech that inspires and empowers humanity.* 
 
 # 💻 Tech Stack
 ## Programming Languages
