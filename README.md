@@ -23,14 +23,14 @@
 
 ## 📊 GitHub Analytics Dashboard
 
- 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-shaban&layout=compact&hide_border=true&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&theme=radical&langs_count=12&exclude_repo=github-readme-stats" alt="Ahmed Sha'ban top languages" />
-</div>
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lord-shaban&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&theme=radical&rank_icon=github&include_all_commits=true" alt="Ahmed Sha'ban github stats" />
 
 <div align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lord-shaban&theme=radical&hide_border=true&stroke=0000&background=0d1117&ring=ff91a4&fire=ff91a4&currStreakLabel=ff91a4" alt="Ahmed Sha'ban streak stats"/>
+</div>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lord-shaban&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&theme=radical&rank_icon=github&include_all_commits=true" alt="Ahmed Sha'ban github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-shaban&layout=compact&hide_border=true&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&theme=radical&langs_count=12&exclude_repo=github-readme-stats" alt="Ahmed Sha'ban top languages" />
 </div>
 
 ## 📈 Contribution Graph
