@@ -129,17 +129,5 @@
 ---
 
 <div align="center">
-  
-### 👀 Profile Views Counter
-  
-[![](https://visitcount.itsvg.in/api?id=Lord-shaban&icon=5&color=6)](https://visitcount.itsvg.in)
-
-### ⚡ Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff" />
 </div>
