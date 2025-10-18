@@ -37,10 +37,6 @@
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lord-shaban&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ff91a4&area_color=dc143c&area=true&hide_border=true&custom_title=Ahmed%20Sha'ban's%20Contribution%20Graph" alt="Ahmed Sha'ban Activity Graph" />
 </div>
 
-## 🏆 GitHub Profile Trophy
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Lord-shaban&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophy" />
-</div>
 
 <!-- Detailed Stats -->
 <details>
