@@ -97,7 +97,7 @@
 
 <div align="center">
   <a href="[https://github.com/Lord-shaban/project1](https://github.com/Lord-shaban/Classic-Barber-App)">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lord-shaban&repo=project1&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lord-shaban&repo=Classic-Barber-App&theme=radical&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="[https://github.com/Lord-shaban/project2](https://github.com/Lord-shaban/FOL-APP)">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Lord-shaban&repo=FOL-APP&theme=radical&hide_border=true&bg_color=0d1117" />
